@@ -1,11 +1,11 @@
 /**
- * fuck the http
+ * 这下大家满足了吧
  * @type {*|exports}
  */
 var express = require('express');
 var path = require('path');
-var favicon = require('serve-favicon');
 var logger = require('morgan');
+var favicon = require('serve-favicon');
 var cookieParser = require('cookie-parser');
 var bodyParser = require('body-parser');
 
