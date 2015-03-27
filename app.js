@@ -1,5 +1,5 @@
 /**
- * 很牛逼啊
+ * 咋回事
  * @type {*|exports}
  */
 var express = require('express');
